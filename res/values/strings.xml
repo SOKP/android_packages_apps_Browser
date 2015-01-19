@@ -795,14 +795,14 @@
 
     <!-- The default homepage. -->
     <string name="homepage_base" translatable="false">
-        https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+        http://sonic-developers.com</string>
 
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
-        <item>Google</item>
-        <item>http://www.google.com/</item>
-        <item>Picasa</item>
-        <item>http://picasaweb.google.com/</item>
+        <item>Sonic-Developers</item>
+        <item>http://sonic-developers.com</item>
+        <item>Forum Sonic-Developers</item>
+        <item>http://forum.sonic-developers.com</item>
         <item>Yahoo!</item>
         <item>http://www.yahoo.com/</item>
         <item>MSN</item>
