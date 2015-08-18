@@ -795,16 +795,16 @@
 
     <!-- The default homepage. -->
     <string name="homepage_base" translatable="false">
-        https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+        https://sonic-developers.com</string>
 
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
-        <item>Google</item>
+        <item>Sonic-Developers</item>
+        <item>http://sonic-developers.com</item>
+        <item>SOKP Download</item>
+        <item>http://sonic-developers.com/app.php/page/downloads?sid=1c4b046b1b4fd29f11d3c58b9b8ea094</item>
+		<item>Google</item>
         <item>http://www.google.com</item>
-        <item>CyanogenMod</item>
-        <item>http://www.cyanogenmod.org</item>
-        <item>CyanogenMod Wiki</item>
-        <item>http://wiki.cyanogenmod.org/w/Main_Page</item>
     </string-array>
 
     <!-- The description of the suggestion that lets the user search the web for the query currently
